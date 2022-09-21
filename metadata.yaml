@@ -1,0 +1,26 @@
+_repo: Cook-book-of-tested-receipes_68983
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cary, Ida Lee
+    gutenberg_agent_id: '54762'
+    url: http://www.gutenberg.org/2009/agents/54762
+description: ''
+gutenberg_issued: '2022-09-13'
+identifiers:
+  gutenberg: '68983'
+language: en
+pgterms:marc904: https://archive.org/details/cookbookoftested00cary/page/n3/mode/2up
+pgterms:marc905: 20220706133821cary
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :A. V. Haight Co.,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cook book of tested receipes
+url: http://www.gutenberg.org/ebooks/68983
